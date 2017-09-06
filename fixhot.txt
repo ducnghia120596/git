@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 fix hot new -- sua ben master
 
+=======
+fix hot new -- sua ben fixhot branch
+>>>>>>> test-fixhot
